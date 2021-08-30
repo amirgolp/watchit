@@ -1,1 +1,3 @@
-console.log('Oi Oi Oi!');
+setInterval(() => {
+    console.log('oh shit... here we go again!');
+}, 1000);
