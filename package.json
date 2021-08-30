@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/amirgolp/watchit/issues"
   },
-  "homepage": "https://github.com/amirgolp/watchit#readme"
+  "homepage": "https://github.com/amirgolp/watchit#readme",
+  "dependencies": {
+    "caporal": "^1.4.0",
+    "chokidar": "^3.5.2",
+    "lodash.debounce": "^4.0.8"
+  }
 }
